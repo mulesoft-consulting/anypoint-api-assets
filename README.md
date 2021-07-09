@@ -106,7 +106,7 @@ If an error occurs, the On-Error Continue component captures the exception, writ
 
 ## Running the app
 
-## Prerequisites
+### Prerequisites
 - Business groups: Matching business groups (by name) are expected to exist in the source and target Anypoint environments.
 - Environments: Matching environments (by name) are expected to exist within each business group.
 - Business group and environment name values: In file "nis-anypoint-exchange-assets-types.raml" within _src/main/resources/api/exchange_modules/284731da-b068-40d0-9261-42c8d4afe01f/nis-anypoint-exchange-assets-types/1.0.1_, set the allowable enum business group names and environment names so that execution doesn't fail RAML validation.
