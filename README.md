@@ -3,7 +3,7 @@
 ## Description
 The Anypoint API Assets API (aka **Publish Exchange Assets API**) is a Mule application that syncs **select** Anypoint API assets from a **source** Anypoint Platform to a **target** Anypoint Platform. For example, from PCE (Private Cloud Edition) to MuleSoft GovCloud.
 
-**Purpose**: The main purpose of this app is to supply Anypoint Platform (GovCloud iPaaS) with API assets and content so that it can in turn supply content for API Community Manager (ACM).
+**Purpose**: The main purpose of this app is to supply Anypoint Platform (Commerical or GovCloud iPaaS) with API assets and content so that it can in turn supply content for API Community Manager (ACM).
 
 **Additional Context**: For a recent MuleSoft customer, ACM serves as the Developer Portal to market and promote the customer's API products as well as to facilitate engagement and use of their APIs.
 
